@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/User/CPP/bigint-Smoking-Stell/big_integer.cpp
+big_integer.h
+/mnt/c/Users/User/CPP/bigint-Smoking-Stell/big_integer.h
+algorithm
+-
+cstddef
+-
+cstring
+-
+ostream
+-
+stdexcept
+-
+
+/mnt/c/Users/User/CPP/bigint-Smoking-Stell/big_integer.h
+functional
+-
+iosfwd
+-
+string
+-
+vector
+-
+
